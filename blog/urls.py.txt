@@ -1,0 +1,3 @@
+URLs : http:/www.mywebapp.com/
+Views : ('', myview, 'home')
+Templates : <h>this is the htlm file, <<myview>> </h>
